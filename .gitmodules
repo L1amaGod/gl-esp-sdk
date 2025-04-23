@@ -139,3 +139,7 @@
 [submodule "components/esp_coex/lib"]
 	path = components/esp_coex/lib
 	url = ../../espressif/esp-coex-lib.git
+[submodule "examples/glinet/gl-s20-thread-br"]
+	path = examples/glinet/gl-s20-thread-br
+	url = https://github.com/L1amaGod/gl-s20-thread-br.git
+	branch = s20_tbr
